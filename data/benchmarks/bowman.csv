@@ -1,0 +1,9 @@
+task_id,description,time,predecessors
+1,Bowman task 1,11,
+2,Bowman task 2,17,1
+3,Bowman task 3,9,2
+4,Bowman task 4,5,2
+5,Bowman task 5,8,3
+6,Bowman task 6,12,3;4
+7,Bowman task 7,10,5
+8,Bowman task 8,3,6

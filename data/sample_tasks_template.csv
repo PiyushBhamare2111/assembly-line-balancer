@@ -1,0 +1,5 @@
+task_id,description,time,predecessors
+A,First operation,5,
+B,Second operation,3,A
+C,Third operation,4,A
+D,Joins B and C,6,B;C

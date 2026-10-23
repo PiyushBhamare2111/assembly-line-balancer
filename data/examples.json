@@ -1,0 +1,10 @@
+{
+  "gearbox": {
+    "file": "gearbox_subassembly.csv",
+    "title": "Gearbox subassembly (20 tasks) - realistic example",
+    "demand": 360,
+    "available_time": 25200,
+    "time_unit": "s",
+    "notes": "Single-stage helical gearbox. One 8-hour shift minus 30 min breaks = 7 h = 25,200 s; demand 360 units/shift gives takt = 70 s. Task times are illustrative standard times (seconds) of the kind a time study produces. The current_station column is the unbalanced as-is line used for the before/after yamazumi."
+  }
+}

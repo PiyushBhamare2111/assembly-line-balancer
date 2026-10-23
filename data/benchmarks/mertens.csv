@@ -1,0 +1,8 @@
+task_id,description,time,predecessors
+1,Mertens task 1,1,
+2,Mertens task 2,5,1
+3,Mertens task 3,4,2
+4,Mertens task 4,3,1
+5,Mertens task 5,5,2
+6,Mertens task 6,6,5
+7,Mertens task 7,5,4

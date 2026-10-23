@@ -1,0 +1,170 @@
+{
+  "source": "Scholl, A. (1993) SALBP benchmark data sets, https://assembly-line-balancing.de/salbp/benchmark-data-sets-1993/",
+  "instances": {
+    "mertens": {
+      "name": "Mertens",
+      "source_file": "MERTENS.IN2",
+      "n_tasks": 7,
+      "total_time": 29,
+      "salbp1_optima": {
+        "6": 6,
+        "7": 5,
+        "8": 5,
+        "10": 3,
+        "15": 2,
+        "18": 2
+      },
+      "salbp2_optima": {}
+    },
+    "bowman": {
+      "name": "Bowman",
+      "source_file": "BOWMAN8.IN2",
+      "n_tasks": 8,
+      "total_time": 75,
+      "salbp1_optima": {
+        "20": 5
+      },
+      "salbp2_optima": {}
+    },
+    "jaeschke": {
+      "name": "Jaeschke",
+      "source_file": "JAESCHKE.IN2",
+      "n_tasks": 9,
+      "total_time": 37,
+      "salbp1_optima": {
+        "6": 8,
+        "7": 7,
+        "8": 6,
+        "10": 4,
+        "18": 3
+      },
+      "salbp2_optima": {}
+    },
+    "jackson": {
+      "name": "Jackson",
+      "source_file": "JACKSON.IN2",
+      "n_tasks": 11,
+      "total_time": 46,
+      "salbp1_optima": {
+        "7": 8,
+        "9": 6,
+        "10": 5,
+        "13": 4,
+        "14": 4,
+        "21": 3
+      },
+      "salbp2_optima": {}
+    },
+    "mitchell": {
+      "name": "Mitchell",
+      "source_file": "MITCHELL.IN2",
+      "n_tasks": 21,
+      "total_time": 105,
+      "salbp1_optima": {
+        "14": 8,
+        "15": 8,
+        "21": 5,
+        "26": 5,
+        "35": 3,
+        "39": 3
+      },
+      "salbp2_optima": {}
+    },
+    "heskiaoff": {
+      "name": "Heskiaoff",
+      "source_file": "HESKIA.IN2",
+      "n_tasks": 28,
+      "total_time": 1024,
+      "salbp1_optima": {
+        "138": 8,
+        "205": 5,
+        "216": 5,
+        "256": 4,
+        "324": 4,
+        "342": 3
+      },
+      "salbp2_optima": {}
+    },
+    "buxey": {
+      "name": "Buxey",
+      "source_file": "BUXEY.IN2",
+      "n_tasks": 29,
+      "total_time": 324,
+      "salbp1_optima": {
+        "27": 13,
+        "30": 12,
+        "33": 11,
+        "36": 10,
+        "41": 8,
+        "47": 7,
+        "54": 7
+      },
+      "salbp2_optima": {
+        "7": 47,
+        "8": 41,
+        "9": 37,
+        "10": 34,
+        "11": 32,
+        "12": 28,
+        "13": 27,
+        "14": 25
+      }
+    },
+    "sawyer": {
+      "name": "Sawyer",
+      "source_file": "SAWYER30.IN2",
+      "n_tasks": 30,
+      "total_time": 324,
+      "salbp1_optima": {
+        "25": 14,
+        "27": 13,
+        "30": 12,
+        "33": 11,
+        "36": 10,
+        "41": 8,
+        "47": 7,
+        "54": 7,
+        "75": 5
+      },
+      "salbp2_optima": {
+        "7": 47,
+        "8": 41,
+        "9": 37,
+        "10": 34,
+        "11": 31,
+        "12": 28,
+        "13": 26,
+        "14": 25
+      }
+    },
+    "kilbridge": {
+      "name": "Kilbridge",
+      "source_file": "KILBRID.IN2",
+      "n_tasks": 45,
+      "total_time": 552,
+      "salbp1_optima": {
+        "56": 10,
+        "57": 10,
+        "62": 9,
+        "69": 8,
+        "79": 7,
+        "92": 6,
+        "110": 6,
+        "111": 5,
+        "138": 4,
+        "184": 3
+      },
+      "salbp2_optima": {
+        "3": 184,
+        "4": 138,
+        "5": 111,
+        "6": 92,
+        "7": 79,
+        "8": 69,
+        "9": 62,
+        "10": 56,
+        "11": 55
+      }
+    }
+  }
+}
